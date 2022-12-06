@@ -6,8 +6,8 @@ project = 'Courselora'
 copyright = '2022, ISPAL-1'
 author = 'ISPAL-1'
 
-release = '0.1'
-version = '0.1.0'
+#release = '0.1'
+#version = '0.1.0'
 
 # -- General configuration
 
@@ -15,8 +15,8 @@ extensions = [
     'sphinx.ext.duration',
     'sphinx.ext.doctest',
     'sphinx.ext.autodoc',
-    #'sphinx.ext.autosummary',
-    #'sphinx.ext.intersphinx',
+    'sphinx.ext.autosummary',
+    'sphinx.ext.intersphinx',
 ]
 
 intersphinx_mapping = {
@@ -28,8 +28,9 @@ intersphinx_disabled_domains = ['std']
 templates_path = ['_templates']
 
 # -- Options for HTML output
-
 html_theme = 'sphinx_rtd_theme'
+#html_logo = "logo.png"
+html_static_path = ['_static']
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
