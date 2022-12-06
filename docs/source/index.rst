@@ -11,26 +11,42 @@ Courselora 2022 yılında kurulmuş bir yazılım ve siber güvenlik eğitim yaz
    
 Bu proje açık kaynaklı olup hiç bir ücret talep edilmeden sunulmuştur. Bir sorun veya talep için ":doc:`/contact/index`" bölümden tarafımızla ilertişime geçebilirsiniz.
 
-Alanlar
---------
-
-* :doc:`/cyber/linux/index`
-* :doc:`/code/c-charp/index`
+İçindekiler
+-----------
 
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: Alanlar
+   :caption: Ana Sayfa
    
-   /cyber/linux/index
-   /code/c-charp/index
+   /index
+
+Alanlar
+--------
+
+* :doc:`/cyber/index`
+* :doc:`/code/index`
 
 Yazılım Bölümleri
------------------
+------------------
 
-* :doc:`/code/c-shap/index`
+* :doc:`/c-shap/index`
 
-Siber Güvenlik Bölümleri
-------------------------
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Yazılım
+   
+   /c-charp/index
 
-* :doc:`/cyber/linux/index`
+Siber Güvenlik
+-------------- 
+
+* :doc:`/linux/index`
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Siber Güvenlik
+   
+   /linux/index
