@@ -10,3 +10,17 @@ Courselora 2022 yılında kurulmuş bir yazılım ve siber güvenlik eğitim yaz
    Bu eğitimdeki bölümleri istediğiniz gibi okuyabiliriniz ama size sunulan sıra ile okumanız daha faydalı olacaktır.
    
 Bu proje açık kaynaklı olup hiç bir ücret talep edilmeden sunulmuştur. Bir sorun veya talep için ":doc:`/contact/index`" bölümden tarafımızla ilertişime geçebilirsiniz.
+
+Bölümler
+--------
+
+* :doc:`/chapter-1/index`
+* :doc:`/chapter-2/index`
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Bölümler
+   
+   /chapter-1/index
+   /chapter-2/index
