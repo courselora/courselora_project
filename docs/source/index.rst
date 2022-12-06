@@ -14,16 +14,16 @@ Bu proje açık kaynaklı olup hiç bir ücret talep edilmeden sunulmuştur. Bir
 Alanlar
 --------
 
-* :doc:`/cyber/index`
-* :doc:`/code/index`
+* :doc:`/cyber/linux/index`
+* :doc:`/code/c-charp/index`
 
 .. toctree::
    :maxdepth: 2
    :hidden:
    :caption: Alanlar
    
-   /cyber/index
-   /code/index
+   /cyber/linux/index
+   /code/c-charp/index
 
 Yazılım Bölümleri
 -----------------
