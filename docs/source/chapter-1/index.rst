@@ -90,8 +90,3 @@ Kitap Hakkında: İnteraktif İçerikler Nedir?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Burada küçük bir özet geçme gereği duydum. Bu kitabı özel kılan yanlarından biri, bölümlerin sonunda okuyucuların tamamen isteğe bağlı, isimsiz, bireysel, yargılama ve değerlendirme olmadan bilgilerini kontrol edebildikleri interaktif içerikerin (quiz, test, küçük oyunlar) olmasıdır.
-
-Bölüm Sonu Testi
-~~~~~~~~~~~~~~~~
-
-Bölüm sonu testine erişmek için `buraya tıklayın. <https://wordwall.net/resource/34806105>`_
