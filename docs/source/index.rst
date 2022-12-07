@@ -37,7 +37,7 @@ Yazılım Bölümleri
    :hidden:
    :caption: Yazilim
    
-   /s/index
+   /javascript/index
 
 Siber Güvenlik
 -------------- 
