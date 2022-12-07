@@ -30,14 +30,14 @@ Alanlar
 Yazılım Bölümleri
 ------------------
 
-* :doc:`/javascript/index`
+* :doc:`/s/index`
 
 .. toctree::
    :maxdepth: 5
    :hidden:
    :caption: Yazılım
    
-   /javascript/index
+   /s/index
 
 Siber Güvenlik
 -------------- 
