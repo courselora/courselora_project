@@ -30,14 +30,15 @@ Alanlar
 Yazılım Bölümleri
 ------------------
 
-* :doc:`/c-shap/index`
+* :doc:`/javascript/index`
 
 .. toctree::
    :maxdepth: 2
    :hidden:
    :caption: Yazılım
    
-   /c-charp/index
+   /javascript/index
+   /javascript/test
 
 Siber Güvenlik
 -------------- 
