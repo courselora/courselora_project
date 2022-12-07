@@ -15,7 +15,7 @@ Bu proje açık kaynaklı olup hiç bir ücret talep edilmeden sunulmuştur. Bir
 -----------
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :hidden:
    :caption: Ana Sayfa
    
