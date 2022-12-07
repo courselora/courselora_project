@@ -33,7 +33,7 @@ Yazılım Bölümleri
 * :doc:`/javascript/index`
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 5
    :hidden:
    :caption: Yazılım
    
