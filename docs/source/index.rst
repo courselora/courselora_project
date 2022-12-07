@@ -39,14 +39,4 @@ Yazılım Bölümleri
    
    /javascript/index
 
-Siber Güvenlik
--------------- 
 
-* :doc:`/linux/index`
-
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: Siber Güvenlik
-   
-   /linux/index
