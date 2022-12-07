@@ -24,13 +24,13 @@ Bu proje açık kaynaklı olup hiç bir ücret talep edilmeden sunulmuştur. Bir
 Alanlar
 --------
 
-* :doc:`/cyber/index`
-* :doc:`/code/index`
+* :doc:`/linux/index`
+* :doc:`/javascript/index`
 
 Yazılım Bölümleri
 ------------------
 
-* :doc:`/s/index`
+* :doc:`/javascript/index`
 
 .. toctree::
    :maxdepth: 2
