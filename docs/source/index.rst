@@ -33,9 +33,9 @@ Yazılım Bölümleri
 * :doc:`/s/index`
 
 .. toctree::
-   :maxdepth: 5
+   :maxdepth: 2
    :hidden:
-   :caption: Yazılım
+   :caption: Yazilim
    
    /s/index
 
