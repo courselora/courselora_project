@@ -38,7 +38,6 @@ Yazılım Bölümleri
    :caption: Yazılım
    
    /javascript/index
-   /javascript/test
 
 Siber Güvenlik
 -------------- 
